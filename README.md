@@ -1,4 +1,4 @@
-# ejs-challenge
+# Blog-Project
 EJS Challenge to create a blog site project for a Full Stack Developer Course made by The App Brewery
 
 # Installation Instructions
